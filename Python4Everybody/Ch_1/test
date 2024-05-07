@@ -1,0 +1,53 @@
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of
+its recipients. This is a permanent error.
+
+The following address failed:
+
+    xxxx@yahoo.com:
+        SMTP error from remote server for MAIL FROM command, host: mta5.am0.yahoodns.net (67.195.228.110) reason: 553 5.7.2 [TSS11] All messages from 82.165.159.13 will be permanently defe
+rred; Retrying will NOT succeed. See https://postmaster.yahooinc.com/e
+rror-codes
+
+From test From2 test From3
+--- The header of the original message is following. ---
+
+Return-Path: <obidahwilberforce2018@gmail.com>
+Authentication-Results:  gmx.net; dkim=pass header.i=@gmail.com
+Received: from mail-ej1-f47.google.com ([209.85.218.47]) by mx-ha.gmx.net
+(mxgmx008 [212.227.15.9]) with ESMTPS (Nemesis) id 1N9cLX-1sjo7G1foz-00w5Yy
+for <xxxxx@gmx.at>; Sun, 21 Apr 2024 14:37:43 +0200
+Received: by mail-ej1-f47.google.com with SMTP id a640c23a62f3a-a556d22fa93so395096466b.3;
+        Sun, 21 Apr 2024 05:37:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1713703063; x=1714307863; darn=gmx.at;
+        h=to:from:subject:mime-version:date:message-id:from:to:cc:subject
+       
+        d=1e100.net; s=20230601; t=1713703063; x=1714307863;
+        h=to:from:subject:mime-version:date:message-id:x-gm-message-state
+        :from:to:cc:subject:date:message-id:reply-to;
+     
+X
+X-Gm-Message-State: 
+X-Google-Smtp-Source: AGHT+IGOktzDXZ2euekZGv+nFKFP+cV8OmZmoC7f5QOSROFT8OGWrERNevHKYRaehn2gmfK4pWduYw==
+X-Received: by 2002:a17:907:86a7:b0:a55:ae85:405a with SMTP id qa39-20020a17090786a700b00a55ae85405amr1040761ejc.46.1713703062678;
+        Sun, 21 Apr 2024 05:37:42 -0700 (PDT)
+Received: from [192.168.1.100] ([178.138.98.110])
+        by smtp.gmail.com with ESMTPSA id go30-20020a1709070d9e00b00a4e98679e7dsm4480138ejc.87.2024.04.21.05.37.38
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Sun, 21 Apr 2024 05:37:40 -0700 (PDT)
+Message-ID: <66250894.170a0220.33fbd.6845@mx.google.com>
+Date: Sun, 21 Apr 2024 05:37:40 -0700 (PDT)
+Content-Type: multipart/alternative; boundary="===============7510028814625001229=="
+MIME-Version: 1.0
+Subject: Ich versuche das alles hier mit meinen privaten Leben zu unterscheiden.
+From: Nikkicolle <obidahwilberforce2018@gmail.com>
+To: obidahwilberforce2018@gmail.com
+Bcc: obidahwilberforce2018@gmail.com
+Envelope-To: <stipe615@gmx.at>
+X-GMX-Antispam: 5 (nemesis mail header analyzer); Detail=V3;
+X-Spam-Flag: YES
+
+
+
