@@ -1,0 +1,2 @@
+# start with ch3 
+continue at timestamp: 1:09:40  "Default values for function args"
