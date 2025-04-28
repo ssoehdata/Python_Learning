@@ -12,8 +12,8 @@ Working through various Python resources including:
   ### Diverese Resources
 
 <ul>
-  Python ML Basics
-  BootDev Python
+  <li>Python ML Basics</li>
+  <li>BootDev Python</li>
   
 </ul>
 
