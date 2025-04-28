@@ -10,10 +10,12 @@ Working through various Python resources including:
 </ul>
 
   ### Diverese Resources
+
+<ul>
   Python ML Basics
   BootDev Python
-
-
+  
+</ul>
 
   
 
