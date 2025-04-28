@@ -1,4 +1,4 @@
-# Python_projects
+# Python learning resources
 ![Python](https://a11ybadges.com/badge?logo=python)   
 Working through various Python resources including: 
 
@@ -7,5 +7,13 @@ Working through various Python resources including:
 
 
 
-  
 </ul>
+
+  ### Diverese Resources
+  Python ML Basics
+  BootDev Python
+
+
+
+  
+
