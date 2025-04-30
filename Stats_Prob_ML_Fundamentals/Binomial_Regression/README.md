@@ -7,7 +7,7 @@
 ### Environment and Dependencies 
 <ul>
 <li>The project was run in a virtual environment (Anaconda) to manage the following libraries and dependencies:</li>
-<li>Python version 3.12, Numpy, Scikit-Learn</li> 
+<li>Python version 3.12, Pandas</li> 
 <li>The data set used and generated are included in the repo.</li>
 
 </ul>
